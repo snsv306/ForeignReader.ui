@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icns/Add-icn2.png</file>
+        <file>icns/settings-icn2.png</file>
+        <file>icns/Translate2.png</file>
+        <file>icns/back-icn.png</file>
+        <file>icns/forward-icn.png</file>
+    </qresource>
+</RCC>
